@@ -1,1 +1,2 @@
-# ecommerce-project
+Spring-boot with Angular ecommerce project
+
